@@ -1,15 +1,1 @@
-﻿  source.cpp
-  syncQueue.cpp
-e:\github\workshop\videoplayer-singlequeue\videoplayer-singlequeue\syncqueue.cpp(73): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
-  threadPool.cpp
-  videoCapturer.cpp
-e:\github\workshop\videoplayer-singlequeue\videoplayer-singlequeue\videocapturer.cpp(223): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
-  e:\github\workshop\videoplayer-singlequeue\videoplayer-singlequeue\videocapturer.cpp(223): note: 请考虑在格式字符串中使用“%lld”
-  e:\github\workshop\videoplayer-singlequeue\videoplayer-singlequeue\videocapturer.cpp(223): note: 请考虑在格式字符串中使用“%Id”
-  e:\github\workshop\videoplayer-singlequeue\videoplayer-singlequeue\videocapturer.cpp(223): note: 请考虑在格式字符串中使用“%I64d”
-  正在生成代码
-  0 of 745 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
-  已完成代码的生成
-  VideoPlayer-SingleQueue.vcxproj -> E:\Github\workshop\VideoPlayer-SingleQueue\x64\Release\VideoPlayer-SingleQueue.exe
+﻿
