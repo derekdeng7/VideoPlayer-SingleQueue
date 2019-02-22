@@ -1,0 +1,5 @@
+﻿  source.cpp
+  syncQueue.cpp
+e:\github\workshop\videoplayer-singlequeue\videoplayer-singlequeue\syncqueue.cpp(73): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  VideoPlayer-SingleQueue.vcxproj -> E:\Github\workshop\VideoPlayer-SingleQueue\x64\Debug\VideoPlayer-SingleQueue.exe
